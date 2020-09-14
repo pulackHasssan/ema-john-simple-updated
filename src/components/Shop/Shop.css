@@ -1,0 +1,8 @@
+.twin-container{
+    display: flex;
+}
+.product-container{
+    width: 70%;
+    margin-left: 50px;
+    border-right: 1px solid orange;
+}

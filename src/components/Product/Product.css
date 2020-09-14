@@ -1,0 +1,14 @@
+.product{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px dotted maroon;
+}
+.product-details{
+
+}
+.main-button{
+    border-radius: 3px;
+    padding: 5px 20px 5px 20px;
+    background-color: olivedrab;
+    cursor: pointer;
+}
